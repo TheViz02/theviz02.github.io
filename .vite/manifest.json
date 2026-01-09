@@ -1,9 +1,16 @@
 {
+  "_vendor-D051_5D-.js": {
+    "file": "assets/vendor-D051_5D-.js",
+    "name": "vendor"
+  },
   "index.html": {
-    "file": "assets/index-CFWwUg1p.js",
+    "file": "assets/index-Cs3kBdng.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
+    "imports": [
+      "_vendor-D051_5D-.js"
+    ],
     "css": [
       "assets/index-DYvLCEtV.css"
     ]
