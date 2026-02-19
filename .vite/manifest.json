@@ -1,18 +1,18 @@
 {
-  "_vendor-xTpc8VTE.js": {
-    "file": "assets/vendor-xTpc8VTE.js",
+  "_vendor-BqXw7A14.js": {
+    "file": "assets/vendor-BqXw7A14.js",
     "name": "vendor"
   },
   "index.html": {
-    "file": "assets/index-XX9Woz7x.js",
+    "file": "assets/index-q5iDmhGF.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vendor-xTpc8VTE.js"
+      "_vendor-BqXw7A14.js"
     ],
     "css": [
-      "assets/index-DYvLCEtV.css"
+      "assets/index-DIhelJuo.css"
     ]
   }
 }
